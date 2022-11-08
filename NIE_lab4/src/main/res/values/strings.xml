@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Headphones</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="name_program">Как правильно выбрать наушники</string>
+
+    <string name="resource_directory">file:///android_asset/HTML/</string>
+
+    <string name="action_settings">Выход</string>
+    <string name="view">Перейти к чтению…</string>
+    <string name="fullsizeFont">Большой шрифт</string>
+    <string name="bonus">Дополнительно</string>
+    <string name="lit">Литература</string>
+    <string name="autor">Нуруллаев И.Э.</string>
+
+    <string name="additional">Почитать</string>
+    <string name="error">Ошибка(</string>
+
+    <string name="prism_break">https://www.kz.sony.ru/electronics/instorija-evolitsii-naushnikov-sony-s-podderzhkoj-audio-vysokogo-razreshenija-hi-res</string>
+    <string name="spy_soft">https://www.sven.fi/ru/support/techsupport/service-article.php?id=16720#:~:text=вставные%20(обиходное%20название%20–%20«наушники,»)%20–%20полностью%20обхватывают%20ухо./</string>
+    <string name="securitylab">https://lifehacker.ru/kakie-naushniki-vybrat//</string>
+    <string name="communicate">Обратная связь</string>
+    <string name="send_mail">Написать отзыв</string>
+
+    <string name="email">nurullaev567@gmail.com</string>
+    <string name="subject">Предложения по программе</string>
+    <string name="textmail">Здравствуйте!</string>
+    <string name="sending_letter">Посылка письма автору</string>
+    <string name="no_installed_email_client">Нет установленного почтового клиента</string>
+
+    <string name="search_hint">Поиск</string>
+    <string name="of">из</string>
+    <string name="not_found">увы…</string>
+
+    <string name="mysearch">ВКЛ. ПОИСК</string>
+
+</resources>

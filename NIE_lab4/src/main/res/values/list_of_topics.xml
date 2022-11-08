@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lec00">    Содержание</string>
+    <string name="lec01">История наушников</string>
+    <string name="lec11">Виды наушников</string>
+    <string name="lec15">Какие наушники выбрать</string>
+    <string name="prog">Программы</string>
+
+</resources>
